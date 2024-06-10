@@ -6,7 +6,7 @@
  <img src="https://img.shields.io/static/v1?label=Linkedin&message=devlucasgusmao&color=1921E1&labelColor=000000" alt="devlucasgusmao" />
 </p>
 
-API para gerenciar tarefas (CRUD) com auxílio [desse vídeo](https://www.youtube.com/watch?v=IjProDV001o), que faz parte de um [desafio](https://github.com/simplify-liferay/desafio-junior-backend-simplify) para a vaga de desenvolvedor backend júnior na Simplify.
+API para gerenciar tarefas (CRUD), que faz parte de um [desafio](https://github.com/simplify-liferay/desafio-junior-backend-simplify) para a vaga de desenvolvedor backend júnior na Simplify.
 
 ## Tecnologias Utilizadas
  
